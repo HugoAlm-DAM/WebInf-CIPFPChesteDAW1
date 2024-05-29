@@ -41,7 +41,6 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "develop",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -67,22 +66,12 @@
       <updated>1716963773580</updated>
       <workItem from="1716963775148" duration="1020000" />
     </task>
-    <task id="LOCAL-00001" summary="Feature style">
-      <option name="closed" value="true" />
-      <created>1716965658672</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1716965658672</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="f" />
     <MESSAGE value="Feature style" />
     <option name="LAST_COMMIT_MESSAGE" value="Feature style" />
   </component>
